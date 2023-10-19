@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Tobias Pflug IT 
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
-show_call_box: true
+description: Tobias Pflug IT Consulting Services
+intro_image: "images/me.jpg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
+show_call_box: false
 ---
 
-# Serif - A Jekyll Business Theme.
+# Tobias Pflug IT Consulting Services
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Over **15 years** of professional experience and a passion to work with teams and individuals to **enable**, **empower**, **identify** **&** **remove bottlenecks**. 

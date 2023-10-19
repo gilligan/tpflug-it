@@ -5,11 +5,9 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+I am a highly skilled IT Professional with over 15 years of experience and a passion for working with people. I love supporting teams and individuals to achieve their goals and create value that they can be proud of.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![keys](/images/keys.jpg)
 
 # Objectives
 

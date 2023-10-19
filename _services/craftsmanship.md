@@ -1,5 +1,6 @@
 ---
-title: "Insurance"
+title: "Craftsmanship"
+desc: "I will join your Engineering teams to foster a craftsmanship mindset around code quality and testing and help you to boost your product delivery speed"
 date: 2019-05-18T12:33:46+10:00
 weight: 7
 ---
