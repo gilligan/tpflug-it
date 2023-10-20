@@ -5,84 +5,33 @@ date: 2019-05-18T12:33:46+10:00
 weight: 7
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Steadily delivering value to your customers in a sustainable manner is only feasible when you focus on code quality, testing and conscious handling of tech debt. This requires a deliberate effort to raise the bar of professionalism in your Engineering department.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Craftsmanship](/images/laptop.jpg)
 
-# Objectives
+## What is Craftsmanship?
 
-Financial accounting and financial reporting are often used as synonyms.
+Software Craftsmanship is defined in the [Software Craftsmanship Manifesto](https://manifesto.softwarecraftsmanship.org/) as an extension or refinement of the [Agile Manifesto](https://agilemanifesto.org/). It is short and concise enough to be quoted in full:
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+> As aspiring Software Craftsmen we are raising the bar of professional software development by practicing it and helping others learn the craft.
+> Through this work we have come to value:<br><br>
+> Not only working software, **but also well-crafted software**<br>
+> Not only responding to change, **but also steadily adding value**<br>
+> Not only individuals and interactions, **but also a community of professionals**<br>
+> Not only customer collaboration, **but also productive partnerships**<br>
+><br>
+>That is, in pursuit of the items on the left we have found the items on the right to be indispensable.
 
-## Relevance
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+## How I will help
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+I will join your Engineering Teams to build and foster a craftsmanship mindset through:
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+- pair- and team-programming sessions
+- facilitating discussions around quality and business value
+- coaching on testing approaches
+- organizing events for knowledge exchange
 
-## Faithful Representation
+## Interested?
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Send me an email at `tobias.pflug@gmail.com` or book a 30min slot with me via [calendly](https://calendly.com/tobias-pflug/30min-chat) - I am looking forward to working with you!
