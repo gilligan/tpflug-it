@@ -21,7 +21,7 @@ Engineering Managers should work on making themselves redundant by enabling team
 - Communication
 - Removing Obstacles
 
-## How I will help
+## How I can help
 
 As interims Engineering Manager I can help by building, taking over or restructuring your team:
 

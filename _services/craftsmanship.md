@@ -24,7 +24,7 @@ Software Craftsmanship is defined in the [Software Craftsmanship Manifesto](http
 >That is, in pursuit of the items on the left we have found the items on the right to be indispensable.
 
 
-## How I will help
+## How I can help
 
 I will join your Engineering Teams to build and foster a craftsmanship mindset through:
 

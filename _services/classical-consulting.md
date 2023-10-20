@@ -5,6 +5,8 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
+Sometimes we get stuck and because we are in the middle of it, it's really hard to figure out why and how to move forward. The support and perspective from a professional on the outside looking in can help: the consultant.
+
 ![report](/images/report.jpg)
 
 ## Being successful is hard
@@ -23,7 +25,7 @@ Let me assure you, you are not alone. Being successful in building high quality 
 
 At the same time, steady delivery of quality software requires a [Craftsmanship mindset](https://manifesto.softwarecraftsmanship.org/) and the correct use of state of the art solutions to allow for [Continuous Integration and Delivery](https://en.wikipedia.org/wiki/CI/CD) that allows you to release without worrying.
 
-## How I will help
+## How I can help
 
 I will step in for a defined period, immerse myself in your company and engage with Engineers, Scrum Masters, Product Owners and Stakeholders. This will allow me to evaluate your company's level of technical skills, the communication and collaboration within and between teams, and the practices and workflows that are being used:
 

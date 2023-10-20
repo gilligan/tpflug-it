@@ -15,7 +15,7 @@ Open Space Events are the most empowering and exciting way to bring together peo
 
 You can have a look at the following YouTube video to get a better idea of how all of this works: [Open Space Technology - The most engaging all-company meeting](https://www.youtube.com/watch?v=WQj12jmLGr4)
 
-## How I will help
+## How I can help
 
 I will organize and facilitate an Open Space Event according to your needs:
 
