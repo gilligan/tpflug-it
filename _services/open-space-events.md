@@ -7,7 +7,7 @@ weight: 4
 
 Open Space Events are the most empowering and exciting way to bring together people to communicate, collaborate, exchange and brainstorm on a specific question or theme in an extremely scalable manner.
 
-![Open Space](/images/openspace.jpg)
+![open space](/images/openspace.jpg)
 
 ## What does Open Space mean?
 

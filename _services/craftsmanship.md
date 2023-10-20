@@ -7,7 +7,8 @@ weight: 7
 
 Steadily delivering value to your customers in a sustainable manner is only feasible when you focus on code quality, testing and conscious handling of tech debt. This requires a deliberate effort to raise the bar of professionalism in your Engineering department.
 
-![Craftsmanship](/images/laptop.jpg)
+
+![laptop](/images/laptop.jpg)
 
 ## What is Craftsmanship?
 
