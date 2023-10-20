@@ -5,80 +5,20 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
+Hiring is similar to some complex mathematical problems in that it's easy to tell when things don't match up but it's much harder to find the right steps for a good outcome
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![river](/images/river.jpg)
 
-# Objectives
+## How do you hire top talent? 
 
-Financial accounting and financial reporting are often used as synonyms.
+The most important realisation is that there is no "_one size fits all_" solution to hiring. Whatever works well for Google, Microsoft or GitHub might not be appropriate at all for your company.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+What matters is having a hiring process that is based on decisions that are derived from your expectations towards candidates. You need to explcitly decide what is important to you and what you want to filter by and also what _not_ to use as a filter. Don't have candidates carry out tasks that you cannot associate back to written down expectations when you evaluate them.
 
-## Relevance
+## How I will help
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+I will help you to define what it is that you are looking for in candidates and how you can test for this in interviews. Together we can either build or refine your process to make sure it is not longer than it needs to be and that it is actually effective. If you already have a process that you are happy with I can also support you by conducting interviews for you or shadow interviews and give feedback.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+## Interested?
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Send me an email at `tobias.pflug@gmail.com` or book a 30min slot with me via [calendly](https://calendly.com/tobias-pflug/30min-chat) - I am looking forward to working with you!
