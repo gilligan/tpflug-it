@@ -11,15 +11,16 @@ I am a highly skilled IT Professional with over 15 years of experience and a pas
 
 My interest in computers started in the late 80s, learning BASIC on the Amstrad CPC. Since then I have:
 
-- Written lots of low-level C and Assembly on different architectures wrestling with bits and bytes to align requirements and scarce hardware resources
-- Implemented classes with painfully long names as I switched to Enterprise Java Development
-- Tried my best to make JavaScript app look and behave the same on different browsers and platforms
-- Leaarned, applied and shared paradigms of Functional Programming and Composition
+- Restructured the IT Department of a startup introducing new workflows and processes boosting productivity and raising quality standards
+- Created an in-depth assessment on Development, Communication and Delivery for an established product company
+- Acted as Engineering Manager working with several international teams in different time zones
+- Worked in an international deep-tech consultancy supporting many different international clients enabling them to build and deploy high quality software and removing their bottlenecks
+- Organized an facilitated an Open Space conference on Functional Programming for an international audience
 - Designed, Implemented and led an [Apprenticeship Program](https://apprenticeship.holidaycheck.com/) to onboard, coach and mentor Junior Engineers
-- Led a Development Experience team that revamped the CI infrastructure and created tooling and solutions to enable and empower Engineers
-- Organized and facilitated an Open Space conference on Functional Programming for an international audience
-- Worked in an international deep-tech consultancy supporting many different international clients
-- Supported multiple different teams in different timezones as Engineering Manager
-- Revamped and restructured the teams of a startup and enabled them to ship quality software
-
+- Built and led a Developer Experience Team revamping the company internal CI/CD infrastructure and enabling Engineers with tooling and coaching
+- Run workshops on Functional Programming and Immutable Infrastructure at clients and conferences
+- Worked on JavaScript Frontend and Backend Services in an e-commerce environment
+- Worked on multiple Java Enterprise projects
+- Designed and implemented firmware kernels for different microcontollers in C and Assembly
+    
 I would be thrilled to apply my professional experience to support **you**. If you want to take a look at my full cv, you can do so [here](/cv.pdf).
