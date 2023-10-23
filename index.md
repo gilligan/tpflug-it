@@ -1,7 +1,7 @@
 ---
 title: Tobias Pflug IT 
 layout: home
-description: Tobias Pflug IT Consulting Services
+description: Tobias Pflug IT Consulting Services - Over 15 years of professional experience and a passion to work with teams and individuals to enable, empower, identify & remove bottlenecks
 intro_image: "images/me.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
